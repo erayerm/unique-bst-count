@@ -1,5 +1,4 @@
 # unique-bst-count
-# unique-bst-count
 
 Given a number 'num', how many unique binary trees include 1 to n? (0<n<15)
 
